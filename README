@@ -1,0 +1,14 @@
+= About
+
+Uses rb-appscript and the ubiquitous curl to post your current listening
+nugget to the grotesquely popular http://twitter.com
+
+= Requirements
+
+rb-appscript gem (primarily b/c rubyosa bombed like a mother for me)
+curl
+
+= Directions to the nearest pub
+
+ 1. Set user and passwd in the script and you're off and running.
+ 1. Take a left at Albuquerque.
