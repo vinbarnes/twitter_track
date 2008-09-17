@@ -1,14 +1,16 @@
-= About
+= twitter_track.rb
+
+== About
 
 Uses rb-appscript and the ubiquitous curl to post your current listening
 nugget to the grotesquely popular http://twitter.com
 
-= Requirements
+== Requirements
 
 rb-appscript gem (primarily b/c rubyosa bombed like a mother for me)
 curl (it goes good with pecan sandies as well as URLs)
 
-= Directions to the nearest pub
+== Directions to the nearest pub
 
  1. Set user and passwd in the script and you're off and running.
  1. Take a left at Albuquerque.
