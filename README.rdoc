@@ -12,5 +12,5 @@ curl (it goes good with pecan sandies as well as URLs)
 
 == Directions to the nearest pub
 
- 1. Set user and passwd in the script and you're off and running.
- 1. Take a left at Albuquerque.
+1. Set user and passwd in the script and you're off and running.
+1. Take a left at Albuquerque.
