@@ -6,7 +6,7 @@ nugget to the grotesquely popular http://twitter.com
 = Requirements
 
 rb-appscript gem (primarily b/c rubyosa bombed like a mother for me)
-curl
+curl (it goes good with pecan sandies as well as URLs)
 
 = Directions to the nearest pub
 
